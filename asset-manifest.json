@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//yotamMoshe.github.io/monsters-rolodex/static/css/main.d71f4a7c.chunk.css",
+    "main.js": "/https//yotamMoshe.github.io/monsters-rolodex/static/js/main.ba3b5e3c.chunk.js",
+    "main.js.map": "/https//yotamMoshe.github.io/monsters-rolodex/static/js/main.ba3b5e3c.chunk.js.map",
+    "runtime-main.js": "/https//yotamMoshe.github.io/monsters-rolodex/static/js/runtime-main.b364f023.js",
+    "runtime-main.js.map": "/https//yotamMoshe.github.io/monsters-rolodex/static/js/runtime-main.b364f023.js.map",
+    "static/js/2.b4309f00.chunk.js": "/https//yotamMoshe.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/https//yotamMoshe.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/https//yotamMoshe.github.io/monsters-rolodex/index.html",
+    "precache-manifest.4b0fa06ccbc7e6c06fcb55e8b394b6ce.js": "/https//yotamMoshe.github.io/monsters-rolodex/precache-manifest.4b0fa06ccbc7e6c06fcb55e8b394b6ce.js",
+    "service-worker.js": "/https//yotamMoshe.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.d71f4a7c.chunk.css.map": "/https//yotamMoshe.github.io/monsters-rolodex/static/css/main.d71f4a7c.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/https//yotamMoshe.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b364f023.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.d71f4a7c.chunk.css",
+    "static/js/main.ba3b5e3c.chunk.js"
+  ]
+}
